@@ -9,6 +9,7 @@ import reducers from "./reducers";
 import App from "./components/App";
 import reportWebVitals from "./reportWebVitals";
 
+//Remove post check of Email
 import axios from "axios";
 window.axios = axios;
 
